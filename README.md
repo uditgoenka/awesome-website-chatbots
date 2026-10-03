@@ -48,6 +48,7 @@ Modern AI chatbots using GPT and large language models.
 | Platform | Description | Pricing | Link |
 |----------|-------------|---------|------|
 | **ChatGPT Widget** | OpenAI's chat widget for websites | $20/mo | [chat.openai.com](https://chat.openai.com) |
+| **Communicate** | AI customer support with knowledge-grounded answers, website chat, and human handoff | $19+/mo | [communicate.so](https://communicate.so) |
 | **Claude for Business** | Anthropic's business chat solution | Custom | [anthropic.com](https://anthropic.com) |
 | **Intercom Fin** | AI bot integrated with Intercom | $74+/mo | [intercom.com](https://intercom.com) |
 | **Zendesk AI** | AI agents for Zendesk Suite | Custom | [zendesk.com](https://zendesk.com) |
